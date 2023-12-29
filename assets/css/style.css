@@ -1,0 +1,99 @@
+.body {
+    margin: 0 auto;
+    }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 1600px;
+    height: 1200px;
+    padding: 245px 494.196px 244.005px 495px;
+    justify-content: center;
+    align-items: center;
+    }
+
+.box-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 516px;
+    height: 172px;
+    background: #133E61;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    }
+
+.ps-logo {
+    padding: 38px;
+    width: 100px;
+    height: 96px;
+    }
+
+.ps-text {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 94px;
+    padding-right: 57px;
+    padding-bottom: 48px;
+    }
+
+.box-body {
+    width: 516px;
+    height: 172px;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: flex-start;
+    padding-left: 150px;
+    background: #FFF;
+    }
+
+.text-1 {
+    padding-top: 60px;
+    color: #001E36;
+    font-family: Mulish;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
+
+.text-2 {
+    color: #001E36;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+
+.text-3 {
+    color: #1142C1;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+    }
+
+.buy-now {
+    display: flex;
+    width: 396px;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 66px;
+    background: #133E61;
+    }
+
+.buy-now-text {
+    color: #FFF;
+    font-family: Mulish;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    }
